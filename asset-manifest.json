@@ -1,21 +1,31 @@
 {
   "files": {
-    "main.css": "/temporaryPage/static/css/main.7c1a2e06.css",
-    "main.js": "/temporaryPage/static/js/main.f11d53f5.js",
-    "static/js/787.9ae003e4.chunk.js": "/temporaryPage/static/js/787.9ae003e4.chunk.js",
-    "static/media/main_banner.png": "/temporaryPage/static/media/main_banner.e6b1b22d8407db276660.png",
-    "static/media/img_help_banner.png": "/temporaryPage/static/media/img_help_banner.191966660eba16434a16.png",
-    "static/media/ico_certificate.svg": "/temporaryPage/static/media/ico_certificate.6377554c128a047d1fdc.svg",
-    "static/media/logo_white.svg": "/temporaryPage/static/media/logo_white.be07fe9bab847cb45d0d.svg",
-    "static/media/ico_down.svg": "/temporaryPage/static/media/ico_down.977fd569ebff2895c904.svg",
-    "static/media/ico_quotes.svg": "/temporaryPage/static/media/ico_quotes.19c338b9a567f88bbcf9.svg",
-    "index.html": "/temporaryPage/index.html",
-    "main.7c1a2e06.css.map": "/temporaryPage/static/css/main.7c1a2e06.css.map",
-    "main.f11d53f5.js.map": "/temporaryPage/static/js/main.f11d53f5.js.map",
-    "787.9ae003e4.chunk.js.map": "/temporaryPage/static/js/787.9ae003e4.chunk.js.map"
+    "main.css": "https://sinri0809.github.io/temporaryPage/static/css/main.fccd45b1.css",
+    "main.js": "https://sinri0809.github.io/temporaryPage/static/js/main.c633e31d.js",
+    "static/js/787.9ae003e4.chunk.js": "https://sinri0809.github.io/temporaryPage/static/js/787.9ae003e4.chunk.js",
+    "static/media/main_banner.png": "https://sinri0809.github.io/temporaryPage/static/media/main_banner.e6b1b22d8407db276660.png",
+    "static/media/img_help_banner.png": "https://sinri0809.github.io/temporaryPage/static/media/img_help_banner.191966660eba16434a16.png",
+    "static/media/img_2depth_customer.png": "https://sinri0809.github.io/temporaryPage/static/media/img_2depth_customer.d941508a77674ba15a71.png",
+    "static/media/img_2depth_community.png": "https://sinri0809.github.io/temporaryPage/static/media/img_2depth_community.9ad96b92a21c69a0aed1.png",
+    "static/media/ico_certificate.svg": "https://sinri0809.github.io/temporaryPage/static/media/ico_certificate.6377554c128a047d1fdc.svg",
+    "static/media/logo_white.svg": "https://sinri0809.github.io/temporaryPage/static/media/logo_white.be07fe9bab847cb45d0d.svg",
+    "static/media/ico_down.svg": "https://sinri0809.github.io/temporaryPage/static/media/ico_down.977fd569ebff2895c904.svg",
+    "static/media/ico_table_notice.svg": "https://sinri0809.github.io/temporaryPage/static/media/ico_table_notice.0a76f237c120e7085f2e.svg",
+    "static/media/ico_quotes.svg": "https://sinri0809.github.io/temporaryPage/static/media/ico_quotes.19c338b9a567f88bbcf9.svg",
+    "index.html": "https://sinri0809.github.io/temporaryPage/index.html",
+    "static/media/bg_circle_1.svg": "https://sinri0809.github.io/temporaryPage/static/media/bg_circle_1.d1f057caf2e393e8561e.svg",
+    "static/media/ico_table_foling_arrow_down.svg": "https://sinri0809.github.io/temporaryPage/static/media/ico_table_foling_arrow_down.7e5894ef5312988e76c0.svg",
+    "static/media/bg_circle_2.svg": "https://sinri0809.github.io/temporaryPage/static/media/bg_circle_2.9cf532b8be908127df80.svg",
+    "static/media/ico_table_new.svg": "https://sinri0809.github.io/temporaryPage/static/media/ico_table_new.3a20f59e82c4b8169752.svg",
+    "static/media/ico_CheckBox.svg": "https://sinri0809.github.io/temporaryPage/static/media/ico_CheckBox.2afdc0a1490876dd5ca7.svg",
+    "static/media/ico_sort.svg": "https://sinri0809.github.io/temporaryPage/static/media/ico_sort.4ab215b222895fb426c9.svg",
+    "static/media/ico_more_arrow.svg": "https://sinri0809.github.io/temporaryPage/static/media/ico_more_arrow.fae957b977b06e44dca5.svg",
+    "main.fccd45b1.css.map": "https://sinri0809.github.io/temporaryPage/static/css/main.fccd45b1.css.map",
+    "main.c633e31d.js.map": "https://sinri0809.github.io/temporaryPage/static/js/main.c633e31d.js.map",
+    "787.9ae003e4.chunk.js.map": "https://sinri0809.github.io/temporaryPage/static/js/787.9ae003e4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7c1a2e06.css",
-    "static/js/main.f11d53f5.js"
+    "static/css/main.fccd45b1.css",
+    "static/js/main.c633e31d.js"
   ]
 }
