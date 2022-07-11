@@ -1,25 +1,61 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>404</title>
-    <script type="text/javascript">
-      // Single Page Apps for GitHub Pages
-      // MIT License
-      // https://github.com/rafgraph/spa-github-pages
-      var pathSegmentsToKeep = 0;
+<html lang="ko">
 
-      var l = window.location;
-      l.replace(
-        l.protocol + '//' + l.hostname + (l.port ? ':' + l.port : '') +
-        l.pathname.split('/').slice(0, 1 + pathSegmentsToKeep).join('/') + '/?/' +
-        l.pathname.slice(1).split('/').slice(pathSegmentsToKeep).join('/').replace(/&/g, '~and~') +
-        (l.search ? '&' + l.search.slice(1).replace(/&/g, '~and~') : '') +
-        l.hash
-      );
+<head>
+  <meta charset="utf-8" />
+  <!-- 반응형 -->
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#000000" />
+  <!-- pwa -->
+  <!-- <link rel="manifest" href="%PUBLIC_URL%/manifest.json" /> -->
 
-    </script>
-  </head>
-  <body>
-  </body>
+  <!-- ! meta data 검색 seo -> 마케팅 팀에서 결정  -->
+  <meta name="title" content="티맥스오에스">
+  <meta name="description" content="티맥스오에스 대표사이트 입니다.">
+  <meta name="author" content="TmaxOS UX ">
+  <meta name="keyword" content="tmaxos, tmax, os, 운영체제, ux, ...">
+
+  <meta name="robots" content="ALL">
+  <!-- naver 봇 -->
+  <meta name="Yeti" content="index, follow">
+  <meta name="Yeti" content="ALL">
+  <meta name="googlebot" content="index, follow">
+  <meta name="googlebot" content="ALL">
+  <meta property="og:type" content="website">
+  <meta property="og:site" content="website">
+  <meta property="og:title" content="티맥스오에스">
+  <meta property="og:description" content="티맥스오에스 대표사이트 입니다.">
+  <meta property="og:image" content="%PUBLIC_URL%/asset/images/main_banner.png">
+  <!-- <meta property="og:image:width" content="400">
+  <meta property="og:image:height" content="400"> -->
+  
+  <!-- favicon -->
+  <link rel="icon" href="%PUBLIC_URL%/favicon.svg" />
+  <link rel="mask-icon" href="%PUBLIC_URL%/favicon.svg" />
+  <link rel="apple-touch-icon" href="%PUBLIC_URL%/favicon.svg" />
+
+  <title>티맥스오에스</title>
+<!-- 
+  <script type="text/javascript">
+    // Single Page Apps for GitHub Pages
+    // MIT License
+    // https://github.com/rafgraph/spa-github-pages
+    (function(l) {
+      if (l.search[1] === '/' ) {
+        var decoded = l.search.slice(1).split('&').map(function(s) { 
+          return s.replace(/~and~/g, '&')
+        }).join('?');
+        window.history.replaceState(null, null,
+            l.pathname.slice(0, -1) + decoded + l.hash
+        );
+      }
+    }(window.location))
+  </script> -->
+
+</head>
+
+<body>
+  <div id="root"></div>
+</body>
+
 </html>
